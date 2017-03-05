@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>O mnie</title>
+		<meta charset="utf-8" />
+    </head>
+    <body style="background-color:lightGrey; font-family:Arial">
+			<h1>Joanna Górnisiewicz</h1>
+		<div style="background-color: white; padding:10px; box-shadow: 3px 3px grey; margin-bottom: 10px; text-align:justify;" >
+			<h2>O mnie</h2>
+    		<p>Ukończyłam filologię polską i z wykształcenia oraz zawodu jestem nauczycielką. Jestem też mamą - mam troje dzieci, stąd też pomysł na bloga Gadżetomama, który jednak w miarę upływu czasu ewoluował: od tekstów na temat pieluch i dziecięcych dolegliwości w kierunku bloga edukacyjnego, poświęconego rozwojowi dziecka, jego szeroko pojętej edukacji. <br> Od kilku lat prowadzę swojego bloga, ale trafiają się w moim życiu okresy, gdy na życie zarabiam pisząc dla innych. Jestem redaktorką treści, czyli copywriterką i piszę artykuły (szczególnie te poświęcone tematyce rodzicielstwa i edukacji), blogi (na przykad dla sklepów), ale też teksty na strony, opisy produktów czy teksty SEO.  </p>
+		</div>
+    	<div style="background-color: white; padding:10px; box-shadow: 3px 3px grey; margin-bottom: 10px; text-align:justify;" >
+    		<h2>Zainteresowania</h2>
+    		<ul style="color: green;">
+    		<li>edukacja alternatywna (edukacja domowa, Montessori, demokratyczna)</li>
+    		<li>czytanie (uwielbiam fantastykę, fantasy, biografie)</li>
+    		<li>malowanie, rysowanie, rękodzieło</li>
+    		<li>łażenie po górach </li>
+    		</ul>
+    	</div>
+    		<div style="background-color: white; padding:10px; box-shadow: 3px 3px grey; margin-bottom: 10px; text-align:justify;">
+    			<h2>Ulubione filmy</h2>
+    			<table width="400px" style="border: 3px solid grey; text-align: center;">
+    			<thead> 
+    			<tr><th>Tytuł filmu</th><th>Ocena</th></tr>
+    			</thead>
+    			<tbody>
+    			<tr><td>Miasteczko Twin Peaks</td><td>5</td></tr>
+    			<tr><td>Mulholland Drive</td><td>5</td></tr>
+    			<tr><td>Żywot Briana</td><td>5</td></tr>
+    			</tbody>
+    			</table>
+    		</div>
+    </body>
+</html>
