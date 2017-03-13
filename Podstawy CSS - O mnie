@@ -1,1 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        	<title>O mnie</title>
+			<meta charset="utf-8" />
+   		<link rel="stylesheet" type="text/css" href="css/style.css">
+   		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    </head>
+    <body>
+			<div class="header">
+    	   	<div class="top">
+    				<h1>Joanna Górnisiewicz</h1>
+    				<h2>O mnie</h2>
+    				<p>Zapraszam do zajrzenia na moją stronę i sprawdzenia, czego nauczyłam się od mojego poprzedniego wpisu.
+    				</p>
+	    		</div>
+			</div>
+	<div class="table">
+	<table id="t01">
+			<thead>
+				<tr>
+					<th>Strony i blogi prowadzone przeze mnie</th>
+					<th>Zainteresowania</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td> 
+					<a href="http://tosienapisze.pl/">Portfolio ToSięNapisze</a></br>
+					<a href="http://www.gadzetomama.pl/">Blog parentingowy</a></br>
+					<a href="http://www.montessori-szkola.pl/">Strona szkoły</a></br>
+					<a href="http://www.lichenes.pl/">Strona o porostach</a></br>
+					</td>
+					<td>
+					<ul class="circle">
+    					<li>edukacja alternatywna (edukacja domowa, Montessori, demokratyczna)</li>
+    					<li>czytanie (uwielbiam fantastykę, fantasy, biografie)</li>
+    					<li>malowanie, rysowanie, rękodzieło</li>
+    					<li>łażenie po górach </li>
+    				</ul>
+    				</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>>
+<div class="container">
+<p>Ukończyłam filologię polską i z wykształcenia oraz zawodu jestem nauczycielką. Jestem też mamą - mam troje dzieci, stąd też pomysł na bloga Gadżetomama, który jednak w miarę upływu czasu ewoluował: od tekstów na temat pieluch i dziecięcych dolegliwości w kierunku bloga edukacyjnego, poświęconego rozwojowi dziecka, jego szeroko pojętej edukacji. <br> Od kilku lat prowadzę swojego bloga, ale trafiają się w moim życiu okresy, gdy na życie zarabiam pisząc dla innych. Jestem redaktorką treści, czyli copywriterką i piszę artykuły (szczególnie te poświęcone tematyce rodzicielstwa i edukacji), blogi (na przykad dla sklepów), ale też teksty na strony, opisy produktów czy teksty SEO. </p>
+</div>
 
+<div class="table">
+		<h2>Ulubione filmy</h2>
+		<table>
+			<thead>
+				<tr>
+					<th>Tytuł filmu</th>
+					<th>Reżyser</th>
+					<th>Rok produkcji</th>
+				</tr>
+			</thead>
+			<tbody>
+				<tr>
+					<td>Miasteczko Twin Peaks</td>
+					<td>David Lynch</td>
+					<td>1990-1991</td>
+				</tr>
+    			<tr>
+					<td>Mulholand Drive</td>
+					<td>David Lynch</td>
+					<td>2001</td>
+				</tr>
+    			<tr>
+					<td>Żywot Briana</td>
+					<td>Terry Jones</td>
+					<td>1979</td>
+				</tr>
+				<tr>
+					<td>Brazil</td>
+					<td>Terry Gilliam</td>
+					<td>1985</td>
+				</tr>
+				<tr>
+					<td>Ptasiek</td>
+					<td>Alan Parker</td>
+					<td>1984</td>
+				</tr>
+			</tbody>
+			</table>
+			</div>
+    	<div class="stopka">
+    	 		<i class="fa fa-sun-o" style="font-size: 60px; color: #99d012;"> </i> 	
+				<h3>Idzie wiosna!</h3>
+	</div>
+    </body>
+</html>
